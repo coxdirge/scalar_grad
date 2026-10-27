@@ -1,0 +1,5 @@
+# micrograd
+
+---
+
+a learning project.
