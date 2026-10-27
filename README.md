@@ -1,5 +1,5 @@
-# micrograd
+# scalar_grad
 
 ---
 
-a learning project.
+a learning project imitating micrograd.
